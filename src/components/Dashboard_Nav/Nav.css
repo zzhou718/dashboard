@@ -1,0 +1,13 @@
+.Nav {
+  float: left;
+  height: calc(100vh - 51px);
+  overflow: hidden;
+  background-color: #4a4a4a;
+  text-align: center;
+  padding: 21px;
+  padding-top: 30px;
+}
+
+.Icons__wrapper {
+  margin-top: 90px;
+}

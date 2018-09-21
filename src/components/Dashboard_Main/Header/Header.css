@@ -1,0 +1,10 @@
+.Header {
+  padding-top: 33px;
+  padding-left: 40px;
+}
+
+.Header__title {
+  display: inline;
+  margin: 0;
+  font-size: 2rem;
+}

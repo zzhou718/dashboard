@@ -1,0 +1,11 @@
+.Board {
+  margin-top: 24px;
+  padding-left: 40px;
+  background-color: #f6f6f6;
+  display: grid;
+  /* grid-template-columns: 1fr 24px 2fr; */
+  grid-template-columns: 408px 266px 266px 266px;
+  grid-template-rows: 250px 250px 250px;
+  grid-gap: 24px;
+}
+

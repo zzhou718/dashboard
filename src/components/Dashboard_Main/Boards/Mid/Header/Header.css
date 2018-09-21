@@ -1,0 +1,14 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  display: inline;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.gear {
+  margin-top: 5px;
+}

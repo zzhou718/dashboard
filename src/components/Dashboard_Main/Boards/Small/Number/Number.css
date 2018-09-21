@@ -1,0 +1,80 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Number {
+  padding-top: 24px;
+  padding-bottom: 0;
+  font-size: 3rem;
+  color: #555555;
+}
+
+.para {
+  margin: 0 auto;
+  font-weight: 400;
+}
+
+.measure {
+  position: absolute;
+  font-size: 0.5rem;
+  margin-top: -0.5rem;
+  font-weight: 400;
+}
+
+.arrow__wrapper {
+  display: inline;
+  font-size: 1.125rem;
+  padding-top: 55px;
+}
+
+.diff--green{
+  display: inline;
+  color: #a4cd76;
+}
+
+.diff--red {
+  display: inline;
+  color: #d95c6b;
+}
+
+.arrow-down-green {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin: 0 7px 3px 0;
+  border-top: 10px solid #a4cd76;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.arrow-down-red {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin: 0 7px 3px 0;
+  border-top: 10px solid #d95c6b;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.arrow-up-green {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin: 0 7px 3px 0;
+  border-bottom: 10px solid #a4cd76;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.arrow-up-red {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin: 0 7px 3px 0;
+  border-bottom: 10px solid #d95c6b;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+

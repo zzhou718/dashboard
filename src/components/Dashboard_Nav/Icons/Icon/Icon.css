@@ -1,0 +1,12 @@
+.Icon {
+  width: 20px;
+  height: 20px;
+  margin: 90px auto;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #8c8c8c;
+}
+
+.Icon--activated {
+  background-color: #dedede;
+}

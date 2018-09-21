@@ -1,0 +1,8 @@
+.Card {
+  padding: 20px 24px;
+  width: 360px;
+  height: 210px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px #eee;
+  background-color: #fff;
+}

@@ -1,0 +1,11 @@
+.Hamburger__wrapper {
+  cursor: pointer;
+  text-align: center;
+}
+
+.Hamburger {
+  width: 38px;
+  height: 4px;
+  background-color: #d5d5d5;
+  margin: 8px 0;
+}
