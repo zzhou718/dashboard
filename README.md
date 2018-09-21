@@ -10,5 +10,7 @@ The dashboard is built based on a mockup created by [a designer friend](https://
 
 Three types (small, medium, and large size) of dashboard cards are provided in the form of stateless (functional) react component. Only one entrance for the data is provided in the stateful (class) container component.
 
+CSS modules are enabled in this template.
+
 ## License
 MIT License
